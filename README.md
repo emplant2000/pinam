@@ -8,7 +8,10 @@ A program that controls the 'Pi Network Amount Manager' application.
 
 Contact : https://expresspi.com/store/pi-node-vps-store/
 
-https://ja.wikipedia.org/wiki/UWSC
+Telegram : https://t.me/+_DK2HtX009kzMzNl
+
+
+UWSC Wiki : https://ja.wikipedia.org/wiki/UWSC
 
 ”
 3
