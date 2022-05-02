@@ -1,0 +1,30 @@
+// Window Activate: Pi Node 
+ACW(GETID("Pi Node","Chrome_WidgetWin_1"))
+KBD(VK_F11,CLICK)
+sleep(0.1)
+
+// [a] [c]
+KBD(VK_CTRL,DOWN)
+KBD(VK_A,CLICK)
+KBD(VK_C,CLICK)
+KBD(VK_CTRL,UP)
+sleep(0.1)
+KBD(VK_TAB,CLICK,3469)
+sleep(0.1)
+
+// pickup "Pi Network Amount Manager"
+ACW(GETID("Pi Network Amount Manager","Window"))
+KBD(VK_SPACE,CLICK)
+sleep(0.1)
+
+// close "Pi Network Amount Manager" alt+f , (x)
+KBD(VK_ALT,DOWN)
+KBD(VK_F,CLICK)
+KBD(VK_ALT,UP)
+KBD(VK_RETURN,CLICK)
+sleep(0.1)
+
+// Window Activate: Pi Node again
+ACW(GETID("Pi Node","Chrome_WidgetWin_1"))
+KBD(VK_F11,CLICK)
+sleep(0.1)
