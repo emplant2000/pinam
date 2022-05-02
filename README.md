@@ -4,7 +4,7 @@ A program that controls the 'Pi Network Amount Manager' application.
 
 1. Run 'Pi Node' App on Windows
 2. Browse chat page such as ''Pioneers (日本語)''
-3. just click pinam as ok
+3. copy page as ctrl+a and just click pinam as ok
 
 Contact : https://expresspi.com/store/pi-node-vps-store/
 
