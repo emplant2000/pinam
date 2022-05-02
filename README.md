@@ -9,3 +9,15 @@ A program that controls the 'Pi Network Amount Manager' application.
 Contact : info@shine57.shop
 
 https://ja.wikipedia.org/wiki/UWSC
+
+”
+3
+.
+141592
+π
+Pioneers (日本語)
+すべてのメッセージ
+Mods FAQ
+Send message
+”
+こんな感じの文字列がコピーされていると、時間を付けてCSVに出せます :)
